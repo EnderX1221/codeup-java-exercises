@@ -1,4 +1,4 @@
-package movies;
+package Movies;
 
 public class Movie {
     private String name;
